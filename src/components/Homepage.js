@@ -10,7 +10,7 @@ const HomePage = () => {
 
   return (
     <div className="container">
-      <h1 className="title">Hi, I'm Aaditya Raj</h1>
+      <h1 className="title">Hi, I&apos;m Aaditya Raj</h1>
       <p className="subtitle">Data Engineer | Azure | Snowflake | Databricks | SQL | Python</p>
       <a href="/Aaditya_Raj-DE.pdf" target="_blank" rel="noopener noreferrer">
         <button className="resume-button">Download Resume</button>
@@ -19,12 +19,12 @@ const HomePage = () => {
       <section className="about-section">
         <h2>About Me</h2>
         <p>
-          I'm a Data Engineer at WNS Global Services with hands-on experience in tools like Azure Data Factory, Snowflake,
+          I&apos;m a Data Engineer at WNS Global Services with hands-on experience in tools like Azure Data Factory, Snowflake,
           Databricks, PySpark, Airflow, and SQL. I’ve also interned at Intel as an AI & Data Science Intern. 
           I love designing scalable data pipelines and solving data problems with efficient solutions.
         </p>
         <p>
-          Certified as an Azure Data Engineer (DP-203) and completed IBM's Data Science Specialization.
+          Certified as an Azure Data Engineer (DP-203) and completed IBM&apos;s Data Science Specialization.
           Passionate about data, performance optimization, and building cool stuff 🚀.
         </p>
       </section>
