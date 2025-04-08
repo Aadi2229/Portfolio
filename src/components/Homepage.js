@@ -112,9 +112,9 @@ const HomePage = () => {
         <h2>Contact Me</h2>
         <p>Let’s connect! Reach out via:</p>
         <div className="contact-links">
-          <a href="mailto:aaditya.yourmail@example.com" target="_blank">📧 Email</a>
-          <a href="https://www.linkedin.com/in/aaditya-raj-909164214" target="_blank">🔗 LinkedIn</a>
-          <a href="https://github.com/AadityaRaj2003" target="_blank">💻 GitHub</a>
+          <a href="mailto:aadiraj19714@example.com" target="_blank">📧 Email</a>
+          <a href="https://www.linkedin.com/in/aaditya-raj-71ba43216" target="_blank">🔗 LinkedIn</a>
+          <a href="https://github.com/Aadi2229" target="_blank">💻 GitHub</a>
         </div>
       </section>
 
